@@ -3,7 +3,7 @@
   "displayName": "FFHStudio Template HDRP:Demo Environment Resources",
   "description": "FFHStudio Template HDRP:Demo Environment Resources",
   "version": "0.0.1",
-  "unity": "6000",
+  "unity": "6000.0",
   "relatedPackages": {},
   "repository": {
     "url": "https://github.com/Far-From-Here-studio/HDRPTemplateDemoResources.git",
