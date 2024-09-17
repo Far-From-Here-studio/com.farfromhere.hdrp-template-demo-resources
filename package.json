@@ -1,7 +1,7 @@
 {
-  "name": "com.farfromhere.hdrp-extension",
-  "displayName": "FFHTemplateHDRP:DemoEnvironment Resources",
-  "description": "FFHTemplateHDRP:DemoEnvironment Resources",
+  "name": "com.farfromhere.hdrp-template-demo-resources",
+  "displayName": "FFHStudio Template HDRP:Demo Environment Resources",
+  "description": "FFHStudio Template HDRP:Demo Environment Resources",
   "version": "0.0.1",
   "unity": "6000",
   "relatedPackages": {},
